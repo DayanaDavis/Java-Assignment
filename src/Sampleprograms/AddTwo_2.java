@@ -8,6 +8,7 @@ public class AddTwo_2
 		int b=Integer.parseInt(args[1]);
 		double sum=a+b;
 		System.out.print("sum="+sum);
+		System.out.println("***************************");
 	}
 
 }
